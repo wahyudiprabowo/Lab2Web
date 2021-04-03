@@ -25,8 +25,8 @@ sedangkan H1 intro memiliki id maka penggunaan pada css dengan pagar (#) , dan d
    
   ![image](https://user-images.githubusercontent.com/81431392/113447499-dad64480-93ae-11eb-963e-f47c58036f93.png)
 
-   CSS Eksternal : adalah kode CSS yg ditulis terpisah dengan kode html, CSS ditulis pada sebuah file khusus yg berektensi .css. diletakan pada bagian <head>
-		dan di panggil dengan tag <link>.
+   CSS Eksternal : adalah kode CSS yg ditulis terpisah dengan kode html, CSS ditulis pada sebuah file khusus yg berektensi .css. diletakan pada bagian head
+		dan di panggil dengan tag link.
   
   contoh :
   
